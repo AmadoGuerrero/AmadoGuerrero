@@ -6,7 +6,7 @@ I'm a backend engineer with a solid background in AWS, TypeScript, Node.js, and 
 
 Skills:
 - HTML/CSS/JS/TS
-- TypeORM/Knex
+- TypeORM/Knex/Prisma
 - Node/Express
 - APIs/REST
 - SQL/MySQL/NoSQL
